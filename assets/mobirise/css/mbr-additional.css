@@ -2408,7 +2408,7 @@ body {
 .cid-qWwU4YOUUu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #efefef;
 }
 .cid-qWwU4YOUUu h4 {
   font-weight: 500;
@@ -2424,6 +2424,100 @@ body {
 }
 .cid-qWwU4YOUUu .card-wrapper {
   height: 100%;
+}
+.cid-qWx6beMVCL {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-qWx6beMVCL h2 {
+  text-align: left;
+}
+.cid-qWx6beMVCL h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qWx6beMVCL p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWx6beMVCL .aside-content {
+  flex-basis: 100%;
+}
+.cid-qWx6beMVCL .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qWx6beMVCL .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qWx6beMVCL .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qWx6beMVCL .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qWx6beMVCL .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qWx6beMVCL .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qWx6beMVCL .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qWx6beMVCL .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qWx7KBDRmY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qWx7KBDRmY .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qWx7KBDRmY h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qWx7KBDRmY p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWx7KBDRmY .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qWx7KBDRmY .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qWx7KBDRmY .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
 }
 .cid-qWwTYD7316 {
   padding-top: 60px;
