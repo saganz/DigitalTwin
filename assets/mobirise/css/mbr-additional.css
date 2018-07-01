@@ -2975,6 +2975,192 @@ body {
 .cid-qQQbIp1aH2 .dropdown-item:hover {
   color: #006f97 !important;
 }
+.cid-qWxBmFVoYO {
+  background-image: url("../../../assets/images/digital-twin-riskcompliance-2000x1115.png");
+}
+.cid-qWxDWgegzX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qWxDWgegzX h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qWxDWgegzX p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWxDWgegzX .card-box {
+  padding-top: 2rem;
+}
+.cid-qWxDWgegzX .card-wrapper {
+  height: 100%;
+}
+.cid-qWxELckozR {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-qWxELckozR h2 {
+  text-align: left;
+}
+.cid-qWxELckozR h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qWxELckozR p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWxELckozR .aside-content {
+  flex-basis: 100%;
+}
+.cid-qWxELckozR .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qWxELckozR .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qWxELckozR .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qWxELckozR .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qWxELckozR .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qWxELckozR .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qWxELckozR .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qWxELckozR .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qWxG4eCYqE {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-qWxG4eCYqE .mbr-text {
+  color: #767676;
+}
+.cid-qWxG4eCYqE h4 {
+  text-align: center;
+}
+.cid-qWxG4eCYqE p {
+  text-align: center;
+}
+.cid-qWxG4eCYqE .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qWxGFF3oKO {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qWxGFF3oKO .mbr-text {
+  color: #767676;
+}
+.cid-qWxGFF3oKO h4 {
+  text-align: center;
+}
+.cid-qWxGFF3oKO p {
+  text-align: center;
+}
+.cid-qWxGFF3oKO .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qWxw1179xb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qWxw1179xb .content {
+    text-align: center;
+  }
+  .cid-qWxw1179xb .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qWxw1179xb .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qWxw1179xb .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qWxw1179xb .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qWxw1179xb .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qWxw1179xb .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qWxw1179xb .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qWxw1179xb .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qWxw1179xb .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qWxw1179xb .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qWxw1179xb .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qWxw1179xb .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
 .cid-qQQbIp1aH2 .navbar {
   background: #ffffff;
   transition: none;
