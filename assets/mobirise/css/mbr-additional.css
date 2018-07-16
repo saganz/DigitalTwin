@@ -1762,7 +1762,7 @@ body {
   color: #006f97 !important;
 }
 .cid-qWg7X2kLu7 {
-  background-image: url("../../../assets/images/sag-aris-architect-promotional-banner-no-text-1580x445.png");
+  background-image: url("../../../assets/images/services-platform-consulting-blank-1580x445.jpg");
 }
 @media (min-width: 992px) {
   .cid-qWg7X2kLu7 .mbr-figure {
@@ -1772,6 +1772,15 @@ body {
 @media (max-width: 991px) {
   .cid-qWg7X2kLu7 .mbr-figure {
     padding-top: 3rem;
+  }
+}
+.cid-qWg7X2kLu7 .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qWg7X2kLu7 .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
   }
 }
 .cid-qWg7X2kLu7 .mbr-section-title B {
