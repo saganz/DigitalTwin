@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Digital Twin",
-    "currentPage": "page4.html",
+    "currentPage": "ThankYou.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2950,7 +2950,7 @@
         }
       ]
     },
-    "page4.html": {
+    "ThankYou.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Thank You",
