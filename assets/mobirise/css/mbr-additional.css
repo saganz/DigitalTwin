@@ -1958,6 +1958,9 @@ body {
 .cid-r0uSkxwSDb .container {
   background-color: transparent;
 }
+.cid-r0uSkxwSDb body {
+  background: transparent !important;
+}
 .cid-qWwtHMhEkh {
   padding-top: 60px;
   padding-bottom: 60px;

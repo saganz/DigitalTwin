@@ -731,6 +731,9 @@
             },
             ".container": {
               "background-color": "transparent"
+            },
+            "body": {
+              "background": "transparent !important"
             }
           },
           "_name": "form1",
