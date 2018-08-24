@@ -58,7 +58,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<style type=\"text/css\">\n    body {margin:0; overflow: hidden;}\n    iframe {border: none; background-color:transparent}\n </style>",
+        "header_custom": "<script language=\"JavaScript\" type=\"text/javascript\">\nif (self != top) {\n   parent.location.href=self.location.href;\n}\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -510,7 +510,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
